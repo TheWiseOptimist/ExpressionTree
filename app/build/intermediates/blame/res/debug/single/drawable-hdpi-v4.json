@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/clyde/AndroidStudioProjects/LiveLessonsTWO/ExpressionTree/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bluebutton.xml",
+        "source": "/home/clyde/AndroidStudioProjects/LiveLessonsTWO/ExpressionTree/app/src/main/res/drawable-hdpi/bluebutton.xml"
+    },
+    {
+        "merged": "/home/clyde/AndroidStudioProjects/LiveLessonsTWO/ExpressionTree/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/home/clyde/AndroidStudioProjects/LiveLessonsTWO/ExpressionTree/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]

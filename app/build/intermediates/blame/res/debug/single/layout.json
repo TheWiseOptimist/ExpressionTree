@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/clyde/AndroidStudioProjects/LiveLessonsTWO/ExpressionTree/app/build/intermediates/res/merged/debug/layout/succinct_activity_main.xml",
+        "source": "/home/clyde/AndroidStudioProjects/LiveLessonsTWO/ExpressionTree/app/src/main/res/layout/succinct_activity_main.xml"
+    },
+    {
+        "merged": "/home/clyde/AndroidStudioProjects/LiveLessonsTWO/ExpressionTree/app/build/intermediates/res/merged/debug/layout/verbose_activity_main.xml",
+        "source": "/home/clyde/AndroidStudioProjects/LiveLessonsTWO/ExpressionTree/app/src/main/res/layout/verbose_activity_main.xml"
+    }
+]
